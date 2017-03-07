@@ -1,0 +1,12 @@
+c:\users\developement\documents\visual studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\ValtechAutomation.Web.dll
+c:\users\developement\documents\visual studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\ValtechAutomation.Web.pdb
+c:\users\developement\documents\visual studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\obj\Debug\ValtechAutomation.Web.csprojResolveAssemblyReference.cache
+c:\users\developement\documents\visual studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\obj\Debug\ValtechAutomation.Web.dll
+c:\users\developement\documents\visual studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\obj\Debug\ValtechAutomation.Web.pdb
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\nunit.framework.dll
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\WebDriver.dll
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\WebDriver.Support.dll
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\nunit.framework.xml
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\WebDriver.xml
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\WebDriver.Support.xml
+c:\Users\Developement\Documents\Visual Studio 2015\Projects\ValtechAutomation\ValtechAutomation.Web\bin\Debug\ValtechAutomation.Web.XML
